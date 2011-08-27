@@ -467,6 +467,7 @@
 % typeset resume all nice and pretty
 %
 \def\Resume{{R\'{e}sum\'{e}}}
+\def\resume{{r\'{e}sum\'{e}}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % makes a line of width \textwidth starting at -\hoffset
